@@ -107,7 +107,8 @@ Voice Output:
 ####Like
 
 
-<img width="1865" height="1014" alt="Screenshot 2026-06-06 212853" src="https://github.com/user-attachments/assets/d79dff3e-c54a-4671-bf4b-9f06ee5f8774" />
+<img width="1865" height="1014" alt="Screenshot 2026-06-06 212853" src="https://github.com/user-attachments/assets/1f228b89-7b80-4dcc-bc92-cd1bb6482ffd" />
+
 
 ###Dislike
 
