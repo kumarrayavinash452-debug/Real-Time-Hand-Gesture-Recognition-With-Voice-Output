@@ -102,7 +102,22 @@ Voice Output:
 "Like, Like"
 "Dislike, Dislike"
 "Hello, Hello"
-```
+`
+
+####Like
+
+
+<img width="1865" height="1014" alt="Screenshot 2026-06-06 212853" src="https://github.com/user-attachments/assets/d79dff3e-c54a-4671-bf4b-9f06ee5f8774" />
+
+###Dislike
+
+<img width="1902" height="1005" alt="Screenshot 2026-06-06 212859" src="https://github.com/user-attachments/assets/27eeb821-3e12-4c83-ab4e-a441baea8984" />
+
+
+###Hello
+
+<img width="1851" height="950" alt="Screenshot 2026-06-06 212918" src="https://github.com/user-attachments/assets/7f78befd-082f-4116-b2eb-40849c57dadc" />
+
 
 ## Author
 
