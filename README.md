@@ -45,10 +45,9 @@ A computer vision project that recognizes hand gestures in real time using a web
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/your-username/real-time-hand-gesture-recognition.git
-cd real-time-hand-gesture-recognition
-```
+git clone https://github.com/kumarrayavinash452-debug/Real-Time-Hand-Gesture-Recognition-With-Voice-Output.git
+
+cd Real-Time-Hand-Gesture-Recognition-With-Voice-Output
 
 ### Install Dependencies
 
@@ -57,7 +56,7 @@ pip install opencv-python mediapipe pyttsx3
 ```
 
 ## Run the Project
-hand_movement_gesture.py
+hand_movement_detect.py
 
 
 ## Controls
@@ -69,7 +68,7 @@ hand_movement_gesture.py
 ## Project Structure
 
 ```text
-├── gesture_recognition.py
+├── hand_movement_detect.py
 
 ## Future Improvements
 
@@ -106,10 +105,11 @@ Voice Output:
 ```
 
 ## Author
+
 Avinash kumar Ray
 ##Branch
 
-Artificial intteligence and Machine Learning
+Artificial Intteligence and Machine Learning
 
 
 
