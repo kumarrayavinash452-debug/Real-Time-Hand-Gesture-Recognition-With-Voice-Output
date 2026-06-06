@@ -57,10 +57,8 @@ pip install opencv-python mediapipe pyttsx3
 ```
 
 ## Run the Project
+hand_movement_gesture.py
 
-```bash
-python gesture_recognition.py
-```
 
 ## Controls
 
@@ -72,9 +70,6 @@ python gesture_recognition.py
 
 ```text
 ├── gesture_recognition.py
-├── README.md
-└── requirements.txt
-```
 
 ## Future Improvements
 
